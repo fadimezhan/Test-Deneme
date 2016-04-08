@@ -1,8 +1,8 @@
-# Baþlýk
+# Baslik
 
 #### Test Deneme
 
-> comment satýrý
+> comment satiri
 
 * git init
 	*git komutu
